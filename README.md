@@ -1,2 +1,2 @@
-# MY-Portpolio
-IT's my portpolio
+# Personal_blog
+A personal webpage created to introduce me
